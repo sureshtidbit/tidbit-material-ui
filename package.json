@@ -1,6 +1,6 @@
 {
-  "version": "4.4.3",
-  "private": true,
+  "name":"new-mat-tidbit",
+  "version": "1.0.1",
   "scripts": {
     "proptypes": "ts-node --skip-project ./scripts/generateProptypes.ts",
     "deduplicate": "node scripts/deduplicate.js",
